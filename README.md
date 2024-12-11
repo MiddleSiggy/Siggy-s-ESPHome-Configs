@@ -1,0 +1,1 @@
+The following repository is used by me to simplify my ESP configs, as I have many devices with similar configs, so these are the common configs that are included to make things more simple to standardize.
